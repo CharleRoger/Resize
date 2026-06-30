@@ -10,6 +10,7 @@ This mod is not intended to affect mass fractions or do any rebalancing whatsoev
 
 ## Compatibility
 
+- [Time To Build (0.3.1)](https://github.com/CharleRoger/TimeToBuild)
 - [VABOrganizer (1.1.0)](https://github.com/KSPModStewards/VABOrganizer)
 
 This mod should be compatible with any version of TweakScale or mods which globally resize parts, e.g. for solar system rescaling.
